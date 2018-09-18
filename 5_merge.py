@@ -29,6 +29,7 @@ allcolumns = [] # for all files
 listofcolumn = [] # for current file
 
 
+
 for filename in csv_files:
 
     print filename
